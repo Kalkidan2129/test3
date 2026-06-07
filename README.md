@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst passionate about transforming complex datasets into actionable insights that drive informed decision-making. My expertise spans Power BI, SQL Server, and Microsoft Office, enabling me to design interactive dashboards and comprehensive reports that uncover trends and optimize operational efficiency. I specialize in leveraging data analytics to address real-world challenges, particularly in transportation and logistics, where I focus on enhancing safety and reducing costs through data-driven strategies.
+This portfolio showcases 1 data analytics and business intelligence projects focused on business intelligence and data analytics. It demonstrates practical experience in transforming raw project work into professional dashboards, analytics solutions, and business-focused reporting outputs.
 
 ---
 
