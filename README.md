@@ -1,6 +1,6 @@
-# Hi, I'm Anni 👋
+# Hi, I'm anni 👋
 
-## Data Analyst
+## Data Analytics
 
 
 ## Skills & Tools
@@ -11,7 +11,7 @@
 
 ## About
 
-This portfolio showcases 1 data analytics and business intelligence projects focused on business intelligence and data analytics. It demonstrates practical experience in transforming raw project work into professional dashboards, analytics solutions, and business-focused reporting outputs.
+I’m a data analyst with a strong focus on transforming insights from raw data into actionable business intelligence, leveraging tools like Power BI and SQL to support decision-making across transportation and logistics industries. My experience centers on creating clear dashboards and reports that highlight key performance indicators, enabling teams to make informed choices. I thrive in environments where analytical skills meet industry relevance, driving improvements in safety and operational efficiency.
 
 ---
 
@@ -30,7 +30,7 @@ This portfolio showcases 1 data analytics and business intelligence projects foc
 
 ## 1. Air Traffic Control Awareness and Wildlife Strikes
 
-Business intelligence and analytics project focused on reporting, dashboards, and data-driven decision-making.
+Prepared and analyzed project data for Air Traffic Control Awareness and Wildlife Strikes, supporting forecasting, machine learning, and predictive analytics workflows.
 
 <br><br>
 
