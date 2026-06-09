@@ -1,4 +1,4 @@
-# Hi, I'm Anna 👋
+# Hi, I'm anna 👋
 
 ## Data Analytics
 
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools such as Power BI, SQL Server, and Microsoft Office. My work focuses on developing interactive dashboards and reports that support informed decision-making, particularly in operational and safety-critical contexts. I am passionate about leveraging data analytics and business intelligence to enhance understanding and drive effective outcomes.
+I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools such as Power BI, SQL Server, and Microsoft Office. My work focuses on creating dynamic dashboards and reports that support informed decision-making and enhance business intelligence, particularly within operational and safety-critical contexts. I am passionate about leveraging data analytics to drive understanding and improve outcomes across diverse industries.
 
 ---
 
