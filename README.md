@@ -1,4 +1,4 @@
-# Hi, I'm anni 👋
+# Hi, I'm Anna 👋
 
 ## Data Analytics
 
@@ -11,7 +11,7 @@
 
 ## About
 
-I’m a data analyst with a strong focus on transforming insights from raw data into actionable business intelligence, leveraging tools like Power BI and SQL to support decision-making across transportation and logistics industries. My experience centers on creating clear dashboards and reports that highlight key performance indicators, enabling teams to make informed choices. I thrive in environments where analytical skills meet industry relevance, driving improvements in safety and operational efficiency.
+I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools such as Power BI, SQL Server, and Microsoft Office. My work focuses on developing interactive dashboards and reports that support informed decision-making, particularly in operational and safety-critical contexts. I am passionate about leveraging data analytics and business intelligence to enhance understanding and drive effective outcomes.
 
 ---
 
