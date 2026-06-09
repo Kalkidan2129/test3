@@ -1,4 +1,4 @@
-# Hi, I'm Anna 👋
+# Hi, I'm Anni 👋
 
 ## Data Analyst
 
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools like Power BI, SQL Server, and Microsoft Office. My work focuses on building interactive dashboards and reports that support informed decision-making, particularly in operational and safety-critical environments. I am passionate about leveraging data analytics and business intelligence to drive efficiency and enhance outcomes across diverse industries.
+I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools such as Power BI, SQL Server, and Microsoft Office. I specialize in building interactive dashboards and reports that support data-driven decision-making, with a focus on enhancing operational awareness and risk management. My work demonstrates a strong ability to leverage business intelligence techniques to improve safety and efficiency in transport-related contexts.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst skilled in transforming complex datasets into clear, actiona
 
 ## 1. Air Traffic Control Awareness and Wildlife Strikes
 
-This project analyzes the impact of pilot awareness on wildlife strike damage and passenger safety using a comprehensive Power BI dashboard. It provides actionable insights to support decision-making in air traffic control and risk management.
+This project analyzes the impact of pilot awareness on wildlife strike damage and passenger safety in air traffic control. It leverages Power BI to create interactive dashboards that support data-driven decision-making for risk management and operational efficiency.
 
 <br><br>
 
