@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools like Power BI and SQL Server. I specialize in building interactive dashboards and reports that support business intelligence and informed decision-making, with experience in industries such as transportation. My focus is on leveraging data analytics to enhance operational awareness and drive impactful outcomes through effective reporting and visualization.
+I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools like Power BI and SQL Server. I specialize in creating dynamic dashboards and reports that support informed decision-making, particularly within operational and safety-focused environments. My work demonstrates a strong ability to leverage data analytics and business intelligence to enhance understanding and drive improvements.
 
 ---
 
